@@ -1,0 +1,26 @@
+{
+  "name": "snowballing",
+  "version": "1.0.0",
+  "description": "the snowballing of the systematic mapping study of the REST API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenweiLabri/snowballing.git"
+  },
+  "keywords": [
+    "snowballing",
+    "REST"
+  ],
+  "author": "weichen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenweiLabri/snowballing/issues"
+  },
+  "homepage": "https://github.com/chenweiLabri/snowballing#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
