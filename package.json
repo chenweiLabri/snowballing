@@ -21,6 +21,20 @@
   },
   "homepage": "https://github.com/chenweiLabri/snowballing#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "cheerio": "^0.22.0",
+    "crawlerx": "0.0.8",
+    "does-include": "^1.0.0",
+    "fast-xml-parser": "^2.4.1",
+    "fs": "0.0.1-security",
+    "google-scholar": "^1.4.0",
+    "json": "^9.0.6",
+    "json-stable-stringify": "^1.0.1",
+    "replace-string": "^1.1.0",
+    "request": "^2.81.0",
+    "split-string": "^2.0.0",
+    "stringify-object": "^3.2.0",
+    "website-scraper": "^2.2.2",
+    "xml-query": "^1.4.0",
+    "xml-reader": "^2.4.3"
   }
 }
